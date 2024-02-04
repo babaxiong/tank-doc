@@ -54,6 +54,9 @@ server {
 #### NetDrive 3
 NetDrive 3是一个收费软件，不过可以支持7天试用，而且跨平台，下载地址：http://www.netdrive.net/
 
+### RaiDrive
+RaiDrive是一个windows端，支持多种存储挂载的软件，有免费和付费两种。
+
 ### MacOS平台
 
 #### NetDrive 3
